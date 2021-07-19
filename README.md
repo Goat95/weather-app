@@ -1,3 +1,4 @@
-# Weather
+# Weather App
+React Native를 사용하여 만든 Weather App입니다.
 
-Learning React Native by Building a Weather App
+## 배운점

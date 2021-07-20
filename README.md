@@ -4,7 +4,7 @@ React Native를 사용하여 만든 간단한 Weather App입니다.
 ## 배운점
 expo를 이용한 React Native에서 style을 주는 방법과 핸드폰에 geolocation에 접근하여 api에 보내는 방법 등, expo를 이용하여 React Native 기본에 대하여 배웠습니다.
 
-## 전체적인 구조
+## 컴포넌트 설명
 ### Weather.js
 ```javascript
 import React from 'react';
